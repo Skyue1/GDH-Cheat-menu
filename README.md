@@ -1,11 +1,12 @@
-# GD-ModMenu
-Free, open-source Geometry Dash modification menu. Powered by ImGui.
+# GD-GDH
+Free Open Source Geometry Dash Menu Mod. Powered by ImGui.
 
 Press `INSERT` key to call mod menu.
 
 # How to use
 Firstly, download DLLs from release page.
 Then, put `xinput9_1_0.dll` and `ModMenu.dll` to the GD executable directory. If you want to add other DLLs, put them in `addons` directory.
+`if there are any problems feel free to leave a comment`
 
 # How to build
 
@@ -18,7 +19,7 @@ git clone https://github.com/OneParsec/GD-ModMenu --recursive
 
 2. Change directory
 ```bash
-cd GD-ModMenu
+cd GD-GDH
 ```
 
 3. Configure CMake
